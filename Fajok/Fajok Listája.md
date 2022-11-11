@@ -1,3 +1,4 @@
+#Gyujto 
 Ide majd kell egy query ezek a tiddlywikis linkek
 -   [Anguigena](https://theark.tiddlyhost.com/#Anguigena) - Gyík sárkány lények
 -   [Arupaka](https://theark.tiddlyhost.com/#Arupaka) - Alpakka
@@ -11,5 +12,5 @@ Ide majd kell egy query ezek a tiddlywikis linkek
 -   [Sárkány](https://theark.tiddlyhost.com/#S%C3%A1rk%C3%A1ny) -
 -   [Vakond emberek](https://theark.tiddlyhost.com/#Vakond%20emberek) - Két lábon járó, szuper okos, vakondok.
 -   [Vízalatti kaméleonok](https://theark.tiddlyhost.com/#V%C3%ADzalatti%20kam%C3%A9leonok) -
--   [Vulpes Alatus](https://theark.tiddlyhost.com/#Vulpes%20Alatus) - Szárnyas rókák
+-  [[Vulpes Alatus]] [Vulpes Alatus](https://theark.tiddlyhost.com/#Vulpes%20Alatus) - Szárnyas rókák
 -   [Zonniret](https://theark.tiddlyhost.com/#Zonniret) - Színes bőrűek, fejük tetején szarv található.
