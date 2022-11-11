@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7bc5c431ab96807f",
@@ -222,11 +221,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c231a7761470a578",
+  "active": "147a104d6ce799c0",
   "lastOpenFiles": [
+    "Burkok/Arupakák világa.md",
     "Csoportosulások/Társadalmi/A Társulat.md",
     "Burkok/Burkok.md",
-    "Burkok/Arupakák világa.md",
     "Lore/A négy bajnok.md",
     "Mágia/Mágia forrásai.md",
     "Történelem/Történelem.md",
