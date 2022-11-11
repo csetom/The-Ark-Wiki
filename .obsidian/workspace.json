@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "5fbe18014580972a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7229c0eda802b6c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "530b2a0b61cc422c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e948e95326d0789d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fajok/Fajok Listája.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "676cb5a04b6e978c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Történelem/Történelem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46573df830cf3658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mágia/Mágia forrásai.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5ac53c4d346659b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/A négy bajnok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f488f38fd0dfdc06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burkok/Arupakák világa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c915f930241e9b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burkok/Burkok.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c231a7761470a578",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Burkok/Arupakák világa.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "24ae2bc60e3648a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee9e659da1831c8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "147a104d6ce799c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3beb6145284f4a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bfe67f384cb0d19d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "7bc5c431ab96807f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef4fb86a5289d9a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7a48a85e215c8f4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Burkok/Arupakák világa.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a39524c214e419c6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Burkok/Arupakák világa.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4cbf0e92d569433f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "81e487732acbd615",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Burkok/Arupakák világa.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c231a7761470a578",
+  "lastOpenFiles": [
+    "Csoportosulások/Társadalmi/A Társulat.md",
+    "Burkok/Burkok.md",
+    "Burkok/Arupakák világa.md",
+    "Lore/A négy bajnok.md",
+    "Mágia/Mágia forrásai.md",
+    "Történelem/Történelem.md",
+    "Fajok/Fajok Listája.md",
+    "Untitled.md"
+  ]
+}

@@ -1,0 +1,6 @@
+-   [Angyali mágia](https://theark.tiddlyhost.com/#Angyali%20m%C3%A1gia) - A Katedrális ajándéka.
+-   [Belső mágia](https://theark.tiddlyhost.com/#Bels%C5%91%20m%C3%A1gia) - Belső energiát használom föl varázslásra.
+-   [Démoni](https://theark.tiddlyhost.com/#D%C3%A9moni) - Elfogott démon szelídítése, és használata.
+-   [Energia Hálózat](https://theark.tiddlyhost.com/#Energia%20H%C3%A1l%C3%B3zat) - Egész Bárkát körüljáró energia háló.
+-   [Kristályok](https://theark.tiddlyhost.com/#Krist%C3%A1lyok) - A mágia anyagi megfelelője, és újrahasználata.
+-   [Lámpás](https://theark.tiddlyhost.com/#L%C3%A1mp%C3%A1s) - A zaeliaták használják.
