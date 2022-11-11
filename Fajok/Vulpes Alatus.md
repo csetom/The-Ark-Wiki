@@ -1,6 +1,6 @@
-#Fajok #VulpusAlatus 
+#Fajok #VulpusAlatus #Faj
 
-A Vulpes Alatus közkeletűen ismert "szárnyas rókák".
+(Short:: A Vulpes Alatus közkeletűen ismert "szárnyas rókák".)
 
 
 ## Helyük a bárkán:

@@ -11,11 +11,54 @@
             "id": "73c59e248504da52",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Vakond emberek.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "664aa1ef819c97e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pupuhi.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67dd57d9eb283280",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fajok/Fajok Listája.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "eb31b991e87af5df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Élő Fémek.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "7bc5c431ab96807f",
@@ -81,6 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fajok/Fajok Listája.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fajok/Fajok Listája.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +163,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fajok/Fajok Listája.md"
+              }
             }
           }
         ]
@@ -128,17 +175,17 @@
     "width": 200,
     "collapsed": true
   },
-  "active": "73c59e248504da52",
+  "active": "67dd57d9eb283280",
   "lastOpenFiles": [
-    "Fajok/Vulpes Alatus.md",
-    "VUlpes Alatus Fizikum.md",
+    "Élő Fémek.md",
     "Fajok/Fajok Listája.md",
+    "Pupuhi.md",
+    "Vakond emberek.md",
+    "Zonniret.md",
+    "Fajok/Vulpes Alatus.md",
     "Burkok/Burkok.md",
     "Burkok/Arupakák világa.md",
-    "Történelem/Történelem.md",
-    "Lore/A négy bajnok.md",
-    "Mágia/Mágia forrásai.md",
-    "Csoportosulások/Társadalmi/A Társulat.md",
-    "Untitled.md"
+    "VUlpes Alatus Fizikum.md",
+    "Történelem/Történelem.md"
   ]
 }
